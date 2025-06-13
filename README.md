@@ -31,8 +31,13 @@ A dynamic and open-source web application built using Django, designed to help u
 
 > Add screenshots in a `screenshots/` folder and link them here like:
 >
-> ![Home Page](screenshots/home.png)
-> ![Public Profile](screenshots/profile.png)
+> ![Home Page](![Screenshot 2025-06-14 021747](https://github.com/user-attachments/assets/dee03d16-ccfd-4acb-835b-fe5d6dc0301d)
+g)
+> ![Profile Details](![Screenshot 2025-06-14 021808](https://github.com/user-attachments/assets/1ae2425e-7c04-4363-aa09-1c74b5610639)
+)
+> > ![Public Profile](![Screenshot 2025-06-14 021833](https://github.com/user-attachments/assets/bc0bc464-e769-41bb-958b-fa38a7ece177)
+)
+)
 
 ---
 
