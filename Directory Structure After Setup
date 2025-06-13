@@ -1,0 +1,16 @@
+Public-Portfolio/
+├── public_portfolio/           # Main Django app
+│   ├── templates/              # HTML templates
+│   ├── static/                 # CSS, JS, and image assets
+│   ├── migrations/             # Django migration files
+│   ├── models.py               # Data models
+│   ├── views.py                # Core logic
+│   ├── urls.py                 # App-specific routing
+│   └── forms.py                # Custom form logic (if used)
+├── media/                      # User-uploaded files
+├── screenshots/                # Optional folder for README images
+├── manage.py                   # Django entry point
+├── db.sqlite3                  # Local DB (ignored in production)
+├── requirements.txt            # Python dependencies
+├── .gitignore                  # Ignored files/folders
+└── README.md                   # Project overview
